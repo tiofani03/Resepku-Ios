@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  resepku
 //
-//  Created by Moladin on 21/11/22.
+//  Created by Tio on 21/11/22.
 //
 
 import UIKit
