@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8DBE6A90-8A3A-438C-854E-C01CB2DA37D1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED7A1FC0-86AD-45D6-9A9B-AD75032619F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "resepku/Model/FoodModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "ED7A1FC0-86AD-45D6-9A9B-AD75032619F8 - fce3197ce299d37c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for foodDummyData"
+                  moduleName = "resepku"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moladin/Belajar%20Ios/Repo/resepku/resepku/Model/FoodModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "ED7A1FC0-86AD-45D6-9A9B-AD75032619F8 - d79390bc8321bb72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "resepku.foodDummyData.unsafeMutableAddressor : Swift.Array&lt;resepku.FoodModel&gt;"
+                  moduleName = "resepku"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moladin/Belajar%20Ios/Repo/resepku/resepku/Model/FoodModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
